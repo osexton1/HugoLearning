@@ -11,7 +11,7 @@ toc: true
 
 ## Flowchart
 
-```math
+```mermaid
 flowchart LR
 
 A[Hard] -->|Text| B(Round)
