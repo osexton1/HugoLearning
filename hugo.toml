@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "/HugoLearning/"
 languageCode = "en-GB"
 contentDir = "content"
 enableEmoji = true
