@@ -2,129 +2,129 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/de/docs/quickstart/</loc>
+    <loc>/HugoLearning/de/docs/quickstart/</loc>
     <lastmod>2023-11-13T10:39:20+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/docs/quickstart/"
+                href="/HugoLearning/docs/quickstart/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/docs/quickstart/"
+                href="/HugoLearning/fr/docs/quickstart/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/docs/quickstart/"
+                href="/HugoLearning/de/docs/quickstart/"
                 />
   </url><url>
-    <loc>/de/docs/example-content/</loc>
+    <loc>/HugoLearning/de/docs/example-content/</loc>
     <lastmod>2023-11-13T10:39:20+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/docs/example-content/"
+                href="/HugoLearning/docs/example-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/docs/example-content/"
+                href="/HugoLearning/fr/docs/example-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/docs/example-content/"
+                href="/HugoLearning/de/docs/example-content/"
                 />
   </url><url>
-    <loc>/de/docs/</loc>
+    <loc>/HugoLearning/de/docs/</loc>
     <lastmod>2023-11-13T10:39:20+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/docs/"
+                href="/HugoLearning/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/docs/"
+                href="/HugoLearning/fr/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/docs/"
+                href="/HugoLearning/de/docs/"
                 />
   </url><url>
-    <loc>/de/</loc>
+    <loc>/HugoLearning/de/</loc>
     <lastmod>2023-11-13T10:39:20+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="/HugoLearning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/"
+                href="/HugoLearning/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/"
+                href="/HugoLearning/de/"
                 />
   </url><url>
-    <loc>/de/tags/beginners/</loc>
+    <loc>/HugoLearning/de/tags/beginners/</loc>
     <lastmod>2023-11-13T10:39:20+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/beginners/"
+                href="/HugoLearning/tags/beginners/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/beginners/"
+                href="/HugoLearning/fr/tags/beginners/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/tags/beginners/"
+                href="/HugoLearning/de/tags/beginners/"
                 />
   </url><url>
-    <loc>/de/tags/</loc>
+    <loc>/HugoLearning/de/tags/</loc>
     <lastmod>2023-11-13T10:39:20+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="/HugoLearning/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/"
+                href="/HugoLearning/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/tags/"
+                href="/HugoLearning/de/tags/"
                 />
   </url><url>
-    <loc>/de/categories/</loc>
+    <loc>/HugoLearning/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="/HugoLearning/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/categories/"
+                href="/HugoLearning/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/categories/"
+                href="/HugoLearning/de/categories/"
                 />
   </url>
 </urlset>
