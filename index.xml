@@ -6,7 +6,7 @@
     <description>Recent content on Lotus Docs Example Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Nov 2023 09:01:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Nov 2023 09:13:04 +0000</lastBuildDate>
     <atom:link href="/HugoLearning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
@@ -72,6 +72,13 @@ Go package main import &amp;#34;fmt&amp;#34; func main() { fmt.Println(&amp;#34;
       <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
       <guid>/HugoLearning/docs/section-folder/section-subfolder/second-section-subfolder/third-section-subfolder/example-doc/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Second Post</title>
+      <link>/HugoLearning/docs/parent-directory/second-post/</link>
+      <pubDate>Mon, 13 Nov 2023 09:10:50 +0000</pubDate>
+      <guid>/HugoLearning/docs/parent-directory/second-post/</guid>
+      <description>This is the second post linkLorem ipsum dolor sit amet, consectetur adipiscing elit. In id tristique nulla. Vestibulum eget purus at orci pretium ultricies a sit amet orci. Mauris pharetra odio nulla, a faucibus dui eleifend ut. Sed congue diam a erat pretium, vitae ultricies sem placerat. Morbi mollis eget lectus eget vulputate. Nunc eros nunc, vehicula a porttitor in, condimentum sit amet justo. Suspendisse potenti. Curabitur mollis dolor vel ante pharetra, pellentesque rhoncus est aliquet.</description>
     </item>
   </channel>
 </rss>

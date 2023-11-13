@@ -87,8 +87,14 @@
     <loc>/HugoLearning/docs/section-folder/section-subfolder/second-section-subfolder/third-section-subfolder/example-doc/</loc>
     <lastmod>2023-11-13T10:39:20+00:00</lastmod>
   </url><url>
+    <loc>/HugoLearning/docs/parent-directory/</loc>
+    <lastmod>2023-11-13T16:00:08+00:00</lastmod>
+  </url><url>
+    <loc>/HugoLearning/docs/parent-directory/second-post/</loc>
+    <lastmod>2023-11-13T16:00:08+00:00</lastmod>
+  </url><url>
     <loc>/HugoLearning/docs/</loc>
-    <lastmod>2023-11-13T15:38:17+00:00</lastmod>
+    <lastmod>2023-11-13T16:00:08+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -106,7 +112,7 @@
                 />
   </url><url>
     <loc>/HugoLearning/</loc>
-    <lastmod>2023-11-13T15:38:17+00:00</lastmod>
+    <lastmod>2023-11-13T16:00:08+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
