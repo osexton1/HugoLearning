@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Lotus Docs Beispiel Site</title>
+    <link>/de/docs/</link>
+    <description>Recent content in Docs on Lotus Docs Beispiel Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Thu, 08 Jun 2023 06:34:57 +0100</lastBuildDate>
+    <atom:link href="/de/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Schnellstart</title>
+      <link>/de/docs/quickstart/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>/de/docs/quickstart/</guid>
+      <description>Neue Inhalte erstellen linkNavigate to the root of your Hugo project and use the hugo new command to create a file in the content/docs directory:
+hugo new docs/example-page.md This will create a markdown file named example-page.md with the following default front matter:
+&amp;#43;&amp;#43;&amp;#43; title = &amp;#34;Example Page&amp;#34; description = &amp;#34;&amp;#34; icon = &amp;#34;article&amp;#34; date = &amp;#34;2023-05-22T00:27:57&amp;#43;01:00&amp;#34; lastmod = &amp;#34;2023-05-22T00:27:57&amp;#43;01:00&amp;#34; draft = false toc = true weight = 999 &amp;#43;&amp;#43;&amp;#43; Modify the options to suit your needs.</description>
+    </item>
+  </channel>
+</rss>
