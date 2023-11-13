@@ -6,8 +6,17 @@
     <description>Recent content in Docs on Lotus Docs Example Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Sep 2023 05:12:51 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 13 Nov 2023 09:01:36 +0000</lastBuildDate>
     <atom:link href="/HugoLearning/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>/HugoLearning/docs/first-post/</link>
+      <pubDate>Mon, 13 Nov 2023 09:01:36 +0000</pubDate>
+      <guid>/HugoLearning/docs/first-post/</guid>
+      <description>This is my first post. linkIt is a test of the Hugo site builder.
+I hope everything is displaying correctly
+Do the different headings display? linkLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus posuere viverra justo vitae fermentum. Nam sit amet condimentum sapien, in finibus massa. Pellentesque posuere augue eu metus faucibus, quis scelerisque dui gravida. Morbi velit nunc, ultrices eu quam vitae, maximus faucibus sapien. Vivamus ac aliquet justo.</description>
+    </item>
     <item>
       <title>Quickstart</title>
       <link>/HugoLearning/docs/quickstart/</link>
