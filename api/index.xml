@@ -7,5 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <atom:link href="/HugoLearning/api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tester</title>
+      <link>/HugoLearning/api/tester/</link>
+      <pubDate>Mon, 04 Dec 2023 15:07:08 +0000</pubDate>
+      <guid>/HugoLearning/api/tester/</guid>
+      <description>This is my first post. It is a test of the Hugo site builder.
+I hope everything is displaying correctly
+Do the different headings display? Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus posuere viverra justo vitae fermentum. Nam sit amet condimentum sapien, in finibus massa. Pellentesque posuere augue eu metus faucibus, quis scelerisque dui gravida. Morbi velit nunc, ultrices eu quam vitae, maximus faucibus sapien. Vivamus ac aliquet justo.</description>
+    </item>
   </channel>
 </rss>
