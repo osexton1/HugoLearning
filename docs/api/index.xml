@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lotus Docs Example Site</title>
+    <link>/HugoLearning/docs/api/</link>
+    <description>Recent content on Lotus Docs Example Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="/HugoLearning/docs/api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tester</title>
+      <link>/HugoLearning/docs/api/tester/</link>
+      <pubDate>Mon, 04 Dec 2023 15:07:08 +0000</pubDate>
+      <guid>/HugoLearning/docs/api/tester/</guid>
+      <description>This is my first post. linkIt is a test of the Hugo site builder.
+I hope everything is displaying correctly
+Do the different headings display? linkLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus posuere viverra justo vitae fermentum. Nam sit amet condimentum sapien, in finibus massa. Pellentesque posuere augue eu metus faucibus, quis scelerisque dui gravida. Morbi velit nunc, ultrices eu quam vitae, maximus faucibus sapien. Vivamus ac aliquet justo.</description>
+    </item>
+  </channel>
+</rss>

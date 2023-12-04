@@ -93,8 +93,26 @@
     <loc>/HugoLearning/docs/parent-directory/second-post/</loc>
     <lastmod>2023-11-13T16:00:08+00:00</lastmod>
   </url><url>
+    <loc>/HugoLearning/docs/</loc>
+    <lastmod>2023-12-04T15:12:57+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/HugoLearning/fr/docs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/HugoLearning/de/docs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/HugoLearning/docs/"
+                />
+  </url><url>
     <loc>/HugoLearning/</loc>
-    <lastmod>2023-12-04T15:09:58+00:00</lastmod>
+    <lastmod>2023-12-04T15:12:57+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -111,26 +129,8 @@
                 href="/HugoLearning/"
                 />
   </url><url>
-    <loc>/HugoLearning/api/tester/</loc>
-    <lastmod>2023-12-04T15:09:58+00:00</lastmod>
-  </url><url>
-    <loc>/HugoLearning/docs/</loc>
-    <lastmod>2023-11-13T16:53:18+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/HugoLearning/fr/docs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/HugoLearning/de/docs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/HugoLearning/docs/"
-                />
+    <loc>/HugoLearning/docs/api/tester/</loc>
+    <lastmod>2023-12-04T15:12:57+00:00</lastmod>
   </url><url>
     <loc>/HugoLearning/tags/beginners/</loc>
     <lastmod>2023-11-13T10:39:20+00:00</lastmod>
@@ -174,8 +174,8 @@
                 href="/HugoLearning/tags/"
                 />
   </url><url>
-    <loc>/HugoLearning/api/</loc>
-    <lastmod>2023-12-04T15:07:53+00:00</lastmod>
+    <loc>/HugoLearning/docs/api/</loc>
+    <lastmod>2023-12-04T15:12:57+00:00</lastmod>
   </url><url>
     <loc>/HugoLearning/categories/</loc>
     <xhtml:link
